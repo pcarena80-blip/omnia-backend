@@ -1,0 +1,11 @@
+.env
+.env.local
+*.db
+*.sqlite3
+*.db-journal
+__pycache__/
+*.py[cod]
+*$py.class
+token.txt
+temp_*
+*.log
